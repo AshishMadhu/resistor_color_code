@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <windows.h>
 
+
 enum colors {
 	BLUE_1 = 1,
 	BLACK = 240,
